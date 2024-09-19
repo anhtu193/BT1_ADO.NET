@@ -1,0 +1,14 @@
+E:\Workspace\BaiTap4\obj\Debug\net8.0\BaiTap4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\BaiTap4\obj\Debug\net8.0\BaiTap4.AssemblyInfoInputs.cache
+E:\Workspace\BaiTap4\obj\Debug\net8.0\BaiTap4.AssemblyInfo.cs
+E:\Workspace\BaiTap4\obj\Debug\net8.0\BaiTap4.csproj.CoreCompileInputs.cache
+E:\Workspace\BaiTap4\bin\Debug\net8.0\BaiTap4.exe
+E:\Workspace\BaiTap4\bin\Debug\net8.0\BaiTap4.deps.json
+E:\Workspace\BaiTap4\bin\Debug\net8.0\BaiTap4.runtimeconfig.json
+E:\Workspace\BaiTap4\bin\Debug\net8.0\BaiTap4.dll
+E:\Workspace\BaiTap4\bin\Debug\net8.0\BaiTap4.pdb
+E:\Workspace\BaiTap4\obj\Debug\net8.0\BaiTap4.dll
+E:\Workspace\BaiTap4\obj\Debug\net8.0\refint\BaiTap4.dll
+E:\Workspace\BaiTap4\obj\Debug\net8.0\BaiTap4.pdb
+E:\Workspace\BaiTap4\obj\Debug\net8.0\BaiTap4.genruntimeconfig.cache
+E:\Workspace\BaiTap4\obj\Debug\net8.0\ref\BaiTap4.dll
